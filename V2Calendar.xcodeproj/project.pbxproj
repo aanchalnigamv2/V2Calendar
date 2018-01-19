@@ -13,22 +13,22 @@
 		879A81DB2011C57400DE9683 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 879A81DA2011C57400DE9683 /* Assets.xcassets */; };
 		879A81DE2011C57400DE9683 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 879A81DC2011C57400DE9683 /* LaunchScreen.storyboard */; };
 		879A82292011CA6000DE9683 /* DateCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82282011CA6000DE9683 /* DateCell.swift */; };
-		879A823B2011CD0900DE9683 /* CalendarDelegateProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A822B2011CD0800DE9683 /* CalendarDelegateProtocol.swift */; };
-		879A823C2011CD0900DE9683 /* CalendarLayoutProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A822C2011CD0800DE9683 /* CalendarLayoutProtocol.swift */; };
-		879A823D2011CD0900DE9683 /* GlobalFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A822D2011CD0800DE9683 /* GlobalFunctions.swift */; };
-		879A823E2011CD0900DE9683 /* CollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A822E2011CD0800DE9683 /* CollectionReusableView.swift */; };
-		879A823F2011CD0900DE9683 /* CalendarCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A822F2011CD0800DE9683 /* CalendarCell.swift */; };
-		879A82402011CD0900DE9683 /* InternalQueryFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82302011CD0800DE9683 /* InternalQueryFunctions.swift */; };
-		879A82412011CD0900DE9683 /* InternalActionFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82312011CD0800DE9683 /* InternalActionFunctions.swift */; };
-		879A82422011CD0900DE9683 /* CalendarProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82322011CD0800DE9683 /* CalendarProtocols.swift */; };
-		879A82432011CD0900DE9683 /* CalendarLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82332011CD0800DE9683 /* CalendarLayout.swift */; };
-		879A82442011CD0900DE9683 /* CalendarEnums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82342011CD0800DE9683 /* CalendarEnums.swift */; };
-		879A82452011CD0900DE9683 /* UIScrollViewDelegates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82352011CD0800DE9683 /* UIScrollViewDelegates.swift */; };
-		879A82462011CD0900DE9683 /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82362011CD0800DE9683 /* CalendarView.swift */; };
-		879A82472011CD0900DE9683 /* UICollectionViewDelegates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82372011CD0900DE9683 /* UICollectionViewDelegates.swift */; };
-		879A82482011CD0900DE9683 /* CalendarStructs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82382011CD0900DE9683 /* CalendarStructs.swift */; };
-		879A82492011CD0900DE9683 /* UserInteractionFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82392011CD0900DE9683 /* UserInteractionFunctions.swift */; };
-		879A824A2011CD0900DE9683 /* CalendarVariables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A823A2011CD0900DE9683 /* CalendarVariables.swift */; };
+		879A827B2011CE9100DE9683 /* CalendarCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A826B2011CE9000DE9683 /* CalendarCell.swift */; };
+		879A827C2011CE9100DE9683 /* CalendarProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A826C2011CE9000DE9683 /* CalendarProtocols.swift */; };
+		879A827D2011CE9100DE9683 /* CalendarStructs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A826D2011CE9000DE9683 /* CalendarStructs.swift */; };
+		879A827E2011CE9100DE9683 /* GlobalFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A826E2011CE9000DE9683 /* GlobalFunctions.swift */; };
+		879A827F2011CE9100DE9683 /* InternalQueryFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A826F2011CE9000DE9683 /* InternalQueryFunctions.swift */; };
+		879A82802011CE9100DE9683 /* CalendarEnums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82702011CE9000DE9683 /* CalendarEnums.swift */; };
+		879A82812011CE9100DE9683 /* UserInteractionFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82712011CE9000DE9683 /* UserInteractionFunctions.swift */; };
+		879A82822011CE9100DE9683 /* CalendarLayoutProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82722011CE9000DE9683 /* CalendarLayoutProtocol.swift */; };
+		879A82832011CE9100DE9683 /* CalendarLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82732011CE9000DE9683 /* CalendarLayout.swift */; };
+		879A82842011CE9100DE9683 /* CalendarDelegateProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82742011CE9000DE9683 /* CalendarDelegateProtocol.swift */; };
+		879A82852011CE9100DE9683 /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82752011CE9000DE9683 /* CalendarView.swift */; };
+		879A82862011CE9100DE9683 /* CollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82762011CE9000DE9683 /* CollectionReusableView.swift */; };
+		879A82872011CE9100DE9683 /* UICollectionViewDelegates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82772011CE9000DE9683 /* UICollectionViewDelegates.swift */; };
+		879A82882011CE9100DE9683 /* UIScrollViewDelegates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82782011CE9000DE9683 /* UIScrollViewDelegates.swift */; };
+		879A82892011CE9100DE9683 /* InternalActionFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A82792011CE9100DE9683 /* InternalActionFunctions.swift */; };
+		879A828A2011CE9100DE9683 /* CalendarVariables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A827A2011CE9100DE9683 /* CalendarVariables.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,22 +40,22 @@
 		879A81DD2011C57400DE9683 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		879A81DF2011C57400DE9683 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		879A82282011CA6000DE9683 /* DateCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DateCell.swift; path = ../../../Desktop/EventCalendar/EventCalendar/DateCell.swift; sourceTree = "<group>"; };
-		879A822B2011CD0800DE9683 /* CalendarDelegateProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalendarDelegateProtocol.swift; path = ../../../Desktop/CalendarDelegateProtocol.swift; sourceTree = "<group>"; };
-		879A822C2011CD0800DE9683 /* CalendarLayoutProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalendarLayoutProtocol.swift; path = ../../../Desktop/CalendarLayoutProtocol.swift; sourceTree = "<group>"; };
-		879A822D2011CD0800DE9683 /* GlobalFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GlobalFunctions.swift; path = ../../../Desktop/GlobalFunctions.swift; sourceTree = "<group>"; };
-		879A822E2011CD0800DE9683 /* CollectionReusableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CollectionReusableView.swift; path = ../../../Desktop/CollectionReusableView.swift; sourceTree = "<group>"; };
-		879A822F2011CD0800DE9683 /* CalendarCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalendarCell.swift; path = ../../../Desktop/CalendarCell.swift; sourceTree = "<group>"; };
-		879A82302011CD0800DE9683 /* InternalQueryFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = InternalQueryFunctions.swift; path = ../../../Desktop/InternalQueryFunctions.swift; sourceTree = "<group>"; };
-		879A82312011CD0800DE9683 /* InternalActionFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = InternalActionFunctions.swift; path = ../../../Desktop/InternalActionFunctions.swift; sourceTree = "<group>"; };
-		879A82322011CD0800DE9683 /* CalendarProtocols.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalendarProtocols.swift; path = ../../../Desktop/CalendarProtocols.swift; sourceTree = "<group>"; };
-		879A82332011CD0800DE9683 /* CalendarLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalendarLayout.swift; path = ../../../Desktop/CalendarLayout.swift; sourceTree = "<group>"; };
-		879A82342011CD0800DE9683 /* CalendarEnums.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalendarEnums.swift; path = ../../../Desktop/CalendarEnums.swift; sourceTree = "<group>"; };
-		879A82352011CD0800DE9683 /* UIScrollViewDelegates.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UIScrollViewDelegates.swift; path = ../../../Desktop/UIScrollViewDelegates.swift; sourceTree = "<group>"; };
-		879A82362011CD0800DE9683 /* CalendarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalendarView.swift; path = ../../../Desktop/CalendarView.swift; sourceTree = "<group>"; };
-		879A82372011CD0900DE9683 /* UICollectionViewDelegates.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UICollectionViewDelegates.swift; path = ../../../Desktop/UICollectionViewDelegates.swift; sourceTree = "<group>"; };
-		879A82382011CD0900DE9683 /* CalendarStructs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalendarStructs.swift; path = ../../../Desktop/CalendarStructs.swift; sourceTree = "<group>"; };
-		879A82392011CD0900DE9683 /* UserInteractionFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UserInteractionFunctions.swift; path = ../../../Desktop/UserInteractionFunctions.swift; sourceTree = "<group>"; };
-		879A823A2011CD0900DE9683 /* CalendarVariables.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalendarVariables.swift; path = ../../../Desktop/CalendarVariables.swift; sourceTree = "<group>"; };
+		879A826B2011CE9000DE9683 /* CalendarCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarCell.swift; sourceTree = "<group>"; };
+		879A826C2011CE9000DE9683 /* CalendarProtocols.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarProtocols.swift; sourceTree = "<group>"; };
+		879A826D2011CE9000DE9683 /* CalendarStructs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarStructs.swift; sourceTree = "<group>"; };
+		879A826E2011CE9000DE9683 /* GlobalFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalFunctions.swift; sourceTree = "<group>"; };
+		879A826F2011CE9000DE9683 /* InternalQueryFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InternalQueryFunctions.swift; sourceTree = "<group>"; };
+		879A82702011CE9000DE9683 /* CalendarEnums.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarEnums.swift; sourceTree = "<group>"; };
+		879A82712011CE9000DE9683 /* UserInteractionFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserInteractionFunctions.swift; sourceTree = "<group>"; };
+		879A82722011CE9000DE9683 /* CalendarLayoutProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarLayoutProtocol.swift; sourceTree = "<group>"; };
+		879A82732011CE9000DE9683 /* CalendarLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarLayout.swift; sourceTree = "<group>"; };
+		879A82742011CE9000DE9683 /* CalendarDelegateProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarDelegateProtocol.swift; sourceTree = "<group>"; };
+		879A82752011CE9000DE9683 /* CalendarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
+		879A82762011CE9000DE9683 /* CollectionReusableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionReusableView.swift; sourceTree = "<group>"; };
+		879A82772011CE9000DE9683 /* UICollectionViewDelegates.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UICollectionViewDelegates.swift; sourceTree = "<group>"; };
+		879A82782011CE9000DE9683 /* UIScrollViewDelegates.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIScrollViewDelegates.swift; sourceTree = "<group>"; };
+		879A82792011CE9100DE9683 /* InternalActionFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InternalActionFunctions.swift; sourceTree = "<group>"; };
+		879A827A2011CE9100DE9683 /* CalendarVariables.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarVariables.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,22 +103,22 @@
 		879A822A2011CC9D00DE9683 /* CalendarComponent */ = {
 			isa = PBXGroup;
 			children = (
-				879A822F2011CD0800DE9683 /* CalendarCell.swift */,
-				879A822B2011CD0800DE9683 /* CalendarDelegateProtocol.swift */,
-				879A82342011CD0800DE9683 /* CalendarEnums.swift */,
-				879A82332011CD0800DE9683 /* CalendarLayout.swift */,
-				879A822C2011CD0800DE9683 /* CalendarLayoutProtocol.swift */,
-				879A82322011CD0800DE9683 /* CalendarProtocols.swift */,
-				879A82382011CD0900DE9683 /* CalendarStructs.swift */,
-				879A823A2011CD0900DE9683 /* CalendarVariables.swift */,
-				879A82362011CD0800DE9683 /* CalendarView.swift */,
-				879A822E2011CD0800DE9683 /* CollectionReusableView.swift */,
-				879A822D2011CD0800DE9683 /* GlobalFunctions.swift */,
-				879A82312011CD0800DE9683 /* InternalActionFunctions.swift */,
-				879A82302011CD0800DE9683 /* InternalQueryFunctions.swift */,
-				879A82372011CD0900DE9683 /* UICollectionViewDelegates.swift */,
-				879A82352011CD0800DE9683 /* UIScrollViewDelegates.swift */,
-				879A82392011CD0900DE9683 /* UserInteractionFunctions.swift */,
+				879A826B2011CE9000DE9683 /* CalendarCell.swift */,
+				879A82742011CE9000DE9683 /* CalendarDelegateProtocol.swift */,
+				879A82702011CE9000DE9683 /* CalendarEnums.swift */,
+				879A82732011CE9000DE9683 /* CalendarLayout.swift */,
+				879A82722011CE9000DE9683 /* CalendarLayoutProtocol.swift */,
+				879A826C2011CE9000DE9683 /* CalendarProtocols.swift */,
+				879A826D2011CE9000DE9683 /* CalendarStructs.swift */,
+				879A827A2011CE9100DE9683 /* CalendarVariables.swift */,
+				879A82752011CE9000DE9683 /* CalendarView.swift */,
+				879A82762011CE9000DE9683 /* CollectionReusableView.swift */,
+				879A826E2011CE9000DE9683 /* GlobalFunctions.swift */,
+				879A82792011CE9100DE9683 /* InternalActionFunctions.swift */,
+				879A826F2011CE9000DE9683 /* InternalQueryFunctions.swift */,
+				879A82772011CE9000DE9683 /* UICollectionViewDelegates.swift */,
+				879A82782011CE9000DE9683 /* UIScrollViewDelegates.swift */,
+				879A82712011CE9000DE9683 /* UserInteractionFunctions.swift */,
 			);
 			path = CalendarComponent;
 			sourceTree = "<group>";
@@ -195,25 +195,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				879A82422011CD0900DE9683 /* CalendarProtocols.swift in Sources */,
-				879A823E2011CD0900DE9683 /* CollectionReusableView.swift in Sources */,
-				879A823B2011CD0900DE9683 /* CalendarDelegateProtocol.swift in Sources */,
-				879A82412011CD0900DE9683 /* InternalActionFunctions.swift in Sources */,
-				879A82452011CD0900DE9683 /* UIScrollViewDelegates.swift in Sources */,
-				879A82482011CD0900DE9683 /* CalendarStructs.swift in Sources */,
-				879A82462011CD0900DE9683 /* CalendarView.swift in Sources */,
+				879A827D2011CE9100DE9683 /* CalendarStructs.swift in Sources */,
 				879A82292011CA6000DE9683 /* DateCell.swift in Sources */,
-				879A82402011CD0900DE9683 /* InternalQueryFunctions.swift in Sources */,
-				879A824A2011CD0900DE9683 /* CalendarVariables.swift in Sources */,
-				879A823D2011CD0900DE9683 /* GlobalFunctions.swift in Sources */,
-				879A82432011CD0900DE9683 /* CalendarLayout.swift in Sources */,
-				879A82492011CD0900DE9683 /* UserInteractionFunctions.swift in Sources */,
+				879A82842011CE9100DE9683 /* CalendarDelegateProtocol.swift in Sources */,
+				879A82862011CE9100DE9683 /* CollectionReusableView.swift in Sources */,
+				879A82882011CE9100DE9683 /* UIScrollViewDelegates.swift in Sources */,
+				879A82822011CE9100DE9683 /* CalendarLayoutProtocol.swift in Sources */,
+				879A827E2011CE9100DE9683 /* GlobalFunctions.swift in Sources */,
+				879A827F2011CE9100DE9683 /* InternalQueryFunctions.swift in Sources */,
 				879A81D62011C57400DE9683 /* ViewController.swift in Sources */,
-				879A823C2011CD0900DE9683 /* CalendarLayoutProtocol.swift in Sources */,
+				879A828A2011CE9100DE9683 /* CalendarVariables.swift in Sources */,
 				879A81D42011C57400DE9683 /* AppDelegate.swift in Sources */,
-				879A82472011CD0900DE9683 /* UICollectionViewDelegates.swift in Sources */,
-				879A82442011CD0900DE9683 /* CalendarEnums.swift in Sources */,
-				879A823F2011CD0900DE9683 /* CalendarCell.swift in Sources */,
+				879A82892011CE9100DE9683 /* InternalActionFunctions.swift in Sources */,
+				879A82852011CE9100DE9683 /* CalendarView.swift in Sources */,
+				879A82832011CE9100DE9683 /* CalendarLayout.swift in Sources */,
+				879A827B2011CE9100DE9683 /* CalendarCell.swift in Sources */,
+				879A82812011CE9100DE9683 /* UserInteractionFunctions.swift in Sources */,
+				879A82872011CE9100DE9683 /* UICollectionViewDelegates.swift in Sources */,
+				879A82802011CE9100DE9683 /* CalendarEnums.swift in Sources */,
+				879A827C2011CE9100DE9683 /* CalendarProtocols.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
